@@ -7,6 +7,15 @@ body{
     width: 100%;
     margin: 0;
     padding-top: 100px;
+    
+}
+
+.title {
+  text-align: center;          /* centers the text */
+  font-size: 3rem;             /* makes it large (adjust as needed) */
+  font-family: 'Brush Script MT', cursive;  /* cursive font */
+  margin-top: 20px;            /* adds space above */
+  color: #2e8b57;              /* optional: gives it a nature-like green tone */
 }
 
 figure {
